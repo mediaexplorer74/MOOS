@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "Run.bat": {
+      "commandName": "Executable",
+      "executablePath": "Run.bat",
+      "commandLineArgs": "MOOS vmware",
+      "workingDirectory": "../"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

@@ -1,0 +1,1 @@
+Check out Properties/launchSettings.json to see how MOOS is built and run

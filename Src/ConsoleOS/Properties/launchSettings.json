@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "Run.bat": {
+      "commandName": "Executable",
+      "executablePath": "Run.bat",
+      "commandLineArgs": "ConsoleOS qemu",
+      "workingDirectory": "../"
+    }
+  }
+}
