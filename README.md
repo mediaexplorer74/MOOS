@@ -4,6 +4,10 @@ My fork of [MOOS](https://github.com/nifanfa/MOOS/). The goal or research: learn
 ## Intro / About MOOS 
 MOOS (To Make **M**y **O**wn **O**perating **S**ystem Project) is a C# x64 operating system compiler with the .NET 7 Native AOT technology.
 
+## Screenshots
+![image](Images/screenshot.png)
+![image 1](Images/screenshot1.png)
+
 ## Building
 For information on compiling MOOS, please read the [Build Wiki page](https://github.com/nifanfa/MOOS/wiki/How-do-you-build-or-compile-MOOS%3F).
 
@@ -14,9 +18,6 @@ For information on compiling MOOS, please read the [Build Wiki page](https://git
 - Windows 10-11 x64 or x86
 - A CPU from at least 2012 or newer, or in basic terms an Ivy Bridge CPU or over
 - 4GB of RAM but 8GB is recommended
-
-## Screenshots
-![image](Images/screenshot.png)
 
 ## Bugs (or my stupid mind... idk)
 No keyboard/mouse support found. Can't operate this OS. The os loading stops at "welcome screen with clock", ohhh. 
