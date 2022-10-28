@@ -43,7 +43,7 @@ AS IS. No support. RnD only.
 MOOS переводится как Make **M**y **O**wn **O**perating **S**ystem (Моя собственноручная операционная система). Это проект 64-разрядной операционки, собранный с помощью C# и скомпилированный с помощью технологии .NET 7 Native AOT.
 
 ## Сборка кода
-Для получения информации о компилировании исходного кода (и сборки а целом) MOOS, пожалуйста, обратитесь к Wiki-странице [Build Wiki page](https://github.com/nifanfa/MOOS/wiki/How-do-you-build-or-compile-MOOS%3F).
+Для получения информации о компилировании исходного кода (и сборки а целом) MOOS, пожалуйста, обратитесь к [Wiki-странице Build](https://github.com/nifanfa/MOOS/wiki/How-do-you-build-or-compile-MOOS%3F).
 
 ### Требования к сборке
 - VMware Workstation Player - https://www.vmware.com/products/workstation-player.html
@@ -53,11 +53,11 @@ MOOS переводится как Make **M**y **O**wn **O**perating **S**ystem 
 - ЦП (CPU) , выпущенный после 2012 года, ну то есть ЦП с Ivy Bridge или чем-то получше
 - 4 гига оперативы (но 8 гигов приветствуются)
 
-## Скриншоты
-![image](Images/Screenshot0.png)
-![image1](Images/Screenshot1.png)
-![image2](Images/Screenshot2.png)
-![image3](Images/Screenshot3.png)
+## Скриншоты (от главного разработчика nifanfa)
+![image](Artwork/Screenshot0.png)
+![image1](Artwork/Screenshot1.png)
+![image2](Artwork/Screenshot2.png)
+![image3](Artwork/Screenshot3.png)
 
 
 ## Ссыли
