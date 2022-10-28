@@ -19,7 +19,7 @@ For information on compiling MOOS, please read the [Build Wiki page](https://git
 ![image](Images/screenshot.png)
 
 ## Bugs (or my stupid mind... idk)
-No keyboard/mous support found. Can't operate this OS. ^ ^
+No keyboard/mouse support found. Can't operate this OS. The os loading stops at "welcome screen with clock", ohhh. 
 
 ## References
 - https://github.com/nifanfa/ 
