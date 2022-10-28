@@ -1,5 +1,5 @@
 # MOOS
-My fork of [MOOS](https://github.com/nifanfa/MOOS/). The goal: learn AOT
+My fork of [MOOS](https://github.com/nifanfa/MOOS/). The goal or research: learn AOT.
 
 ## Intro / About MOOS 
 MOOS (To Make **M**y **O**wn **O**perating **S**ystem Project) is a C# x64 operating system compiler with the .NET 7 Native AOT technology.
@@ -16,11 +16,10 @@ For information on compiling MOOS, please read the [Build Wiki page](https://git
 - 4GB of RAM but 8GB is recommended
 
 ## Screenshots
-![image](Images/Screenshot0.png)
-![image1](Images/Screenshot1.png)
-![image2](Images/Screenshot2.png)
-![image3](Images/Screenshot3.png)
+![image](Images/Screenshot.png)
 
+## Bugs (or my stupid mind... idk)
+No keyboard/mous support found. Can't operate this OS. ^ ^
 
 ## References
 - https://github.com/nifanfa/ 
