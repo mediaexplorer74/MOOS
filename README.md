@@ -16,7 +16,7 @@ For information on compiling MOOS, please read the [Build Wiki page](https://git
 - 4GB of RAM but 8GB is recommended
 
 ## Screenshots
-![image](Images/Screenshot.png)
+![image](Images/screenshot.png)
 
 ## Bugs (or my stupid mind... idk)
 No keyboard/mous support found. Can't operate this OS. ^ ^
