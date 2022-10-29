@@ -5,8 +5,8 @@ My fork of [MOOS](https://github.com/nifanfa/MOOS/). The goal or research: learn
 MOOS (To Make **M**y **O**wn **O**perating **S**ystem Project) is a C# x64 operating system compiler with the .NET 7 Native AOT technology.
 
 ## Screenshots
-![image](Images/screenshot.png)
-![image 1](Images/screenshot1.png)
+![image 1](Images/shot1.png)
+![image 2](Images/shot2.png)
 
 ## Building
 For information on compiling MOOS, please read the [Build Wiki page](https://github.com/nifanfa/MOOS/wiki/How-do-you-build-or-compile-MOOS%3F).
@@ -19,8 +19,8 @@ For information on compiling MOOS, please read the [Build Wiki page](https://git
 - A CPU from at least 2012 or newer, or in basic terms an Ivy Bridge CPU or over
 - 4GB of RAM but 8GB is recommended
 
-## Bugs (or my stupid mind... idk)
-No keyboard/mouse support found. Can't operate this OS. The os loading stops at "welcome screen with clock", ohhh. 
+## Bugs
+No keyboard/mouse support found. Can't operate this OS. The os loading stops at "welcome screen with clock", ohhh. VMWare's USB detection failed, yea?... I have an idea to start MOOS without any emulation! :)
 
 ## References
 - https://github.com/nifanfa/ 
@@ -53,12 +53,12 @@ MOOS переводится как Make **M**y **O**wn **O**perating **S**ystem 
 - ЦП (CPU) , выпущенный после 2012 года, ну то есть ЦП с Ivy Bridge или чем-то получше
 - 4 гига оперативы (но 8 гигов приветствуются)
 
-## Скриншоты (от главного разработчика nifanfa)
-![image](Artwork/Screenshot0.png)
-![image1](Artwork/Screenshot1.png)
-![image2](Artwork/Screenshot2.png)
-![image3](Artwork/Screenshot3.png)
+## Скриншоты 
+![image 1](Images/shot1.png)
+![image 2](Images/shot2.png)
 
+## Баги
+Че-то мыша и клава не пашут. Невозможно управлять сей оськой. Эх, процесс тормозится на экране приветствия с часиками. Глюки эмуляции USB в VMWare, что ли?... Попробую на реальном железе тогда образ оси стартануть! :)
 
 ## Ссыли
 - https://github.com/nifanfa/ 
